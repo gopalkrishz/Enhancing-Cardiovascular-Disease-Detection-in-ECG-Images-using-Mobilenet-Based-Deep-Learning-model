@@ -1,0 +1,1 @@
+This research contributes to advancing the field of medical image analysis by highlighting the efficacy of MobileNet architecture in enhancing the accuracy and efficiency of cardiovascular disease detection from ECG images, thereby fostering advancements in early diagnosis and intervention for improved patient care.
